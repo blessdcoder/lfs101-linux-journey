@@ -21,9 +21,9 @@ similar path can learn alongside me.
 
 | Chapter | Topic | Status |
 |---------|-------|--------|
-| 01 | The Linux Foundation | ⬜ Not Started |
-| 02 | Linux Philosophy & Concepts | ⬜ Not Started |
-| 03 | Linux Basics & System Startup | ⬜ Not Started |
+| 01 | The Linux Foundation | ✅ Done |
+| 02 | Linux Philosophy & Concepts | ✅ Done |
+| 03 | Linux Basics & System Startup | ✅ Done |
 | 04 | Graphical Interface | ⬜ Not Started |
 | 05 | System Configuration | ⬜ Not Started |
 | 06 | Common Applications | ⬜ Not Started |
